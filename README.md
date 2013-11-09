@@ -1,2 +1,2 @@
-SimonMorrisSWC.github.io
+Simon Morris - GitHub
 ========================
